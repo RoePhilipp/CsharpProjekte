@@ -33,3 +33,5 @@ Fragments/      | <---Relevanter Code
 Resources/      | <---Relevanter Code
 
 ----------------------------------------------
+
+Screenshots (der UIs) füge ich auf Wunsch noch bei.
