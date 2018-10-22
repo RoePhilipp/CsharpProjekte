@@ -21,8 +21,7 @@ SSD_SevenSegmentDisplay/SSD_SevenSegmentDisplay/MainWindow.xaml.cs <---- Relevan
 
 ---------------------------------------------
 
-"Lake Side Programm" ist eine Android App, die ich für einen Freund programmiert habe, der Tretboote vermietet und keine handschriftliche
-Liste mehr führen will.(Übung Xamarin.Android framework, Datenbanken [SQLite]).
+"Lake Side Programm" ist eine Android App, die ich für einen Freund programmiert habe, der Tretboote vermietet und Aufzeichnungen digitalisiert möchte.(Übung Xamarin.Android framework, Datenbanken [SQLite]).
 
 LSP/LSP
 
