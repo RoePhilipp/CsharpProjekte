@@ -20,3 +20,16 @@ SSD_SevenSegmentDisplay/SSD_SevenSegmentDisplay/MainWindow.xaml.cs <---- Relevan
 "Seven Segment Display" Darstellung in C#. (Übung der Bit-Operatoren)
 
 ---------------------------------------------
+
+"Lake Side Programm" ist eine Android App, die ich für einen Freund programmiert habe, der Tretboote vermietet und keine handschriftliche
+Liste mehr führen will.(Übung Xamarin.Android framework, Datenbanken [SQLite]).
+
+LSP/LSP
+
+MainActivity.cs | <---Relevanter Code
+
+Fragments/      | <---Relevanter Code
+
+Resources/      | <---Relevanter Code
+
+----------------------------------------------
